@@ -1,0 +1,12 @@
+Application Name= 
+AttachDBFileName= 
+Connect Timeout= 
+Data Source=DESKTOP-4DQ06PD\SQLEXPRESS
+Encrypt= 
+Initial Catalog=pract
+Integrated Security=True
+Packet Size= 
+Persist Security Info= 
+Workstation ID= 
+Password= 
+User ID= 

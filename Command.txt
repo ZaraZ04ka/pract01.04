@@ -1,0 +1,4 @@
+SELECT category INTO category FROM product
+ALTER TABLE product DROP COLUMN category
+ALTER TABLE category ADD CatId INT PRIMARY KEY IDENTITY
+ALTER TABLE category ADD FOREIGN KEY  (CatId) REFERENCES product(sku)
